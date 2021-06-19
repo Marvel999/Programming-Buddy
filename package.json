@@ -1,0 +1,17 @@
+{
+  "name": "buddy",
+  "version": "1.0.0",
+  "description": "This script help you to increase productivity. This script do all the productive but repeated for you and help you to increase your productivity. This is Project also makeing for pepcoding Hackathon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^10.0.0"
+  }
+}
