@@ -42,6 +42,10 @@ console.log("input",input);
       const page = await browser.newPage();
       await page.goto('https://www.instagram.com/');
     }
+    if(input.includes("-github")){
+      const page = await browser.newPage();
+      await page.goto('https://github.com/');
+    }
     if(input.includes("-w")){
       const page = await browser.newPage();
       await page.goto('https://web.whatsapp.com/');
