@@ -1,12 +1,4 @@
 Hey guys,
-This is my first tech blog on Medium. On My Android library ArcProgressBar. I hope you will like it. Please check and provide your feedback in the comments.
-
-Medium Blog link:-https://lnkd.in/dCsWDbY
-
-Github Repo:- https://lnkd.in/dXvFrzN
-
-For More Frequent updates and Asking doubt On Android App development, feel free to connect me on instagram.
-
-Instagram(@wrapx_android_web):- https://lnkd.in/dNX85hs
-
-#github #android #app #medium #androidLibrary #androiddev #androiddevelopment
+        This is test post.
+        Thank you
+        Manish
