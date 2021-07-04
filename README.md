@@ -1,5 +1,7 @@
 # Programming Buddy
 
+![Web 1280 – 3](https://user-images.githubusercontent.com/43094705/124392431-2e8c5d00-dd13-11eb-85ba-1cc707481c57.png)
+
 This script helps you to increase productivity of programmer. This script does all the productive but repeated work for you and helps you to increase your productivity. This is Project also making for Pepcoding Hackathon. This project is as helpful as Programming Buddy.
 
 "Don't weaste time in Small thinks"
@@ -76,9 +78,27 @@ This script helps you to increase productivity of programmer. This script does a
       
       
       
-## 
-1. openWebsite For you.
-2. Popup motivation quates in every 10min.
-3. automate background music for you
-4. Automate post
-5. Automate blog marketing
+# Future Plans
+1. Popup motivation quates in every 10min.
+2. Automate post For other social media.
+3. Automate blog marketing
+
+
+LICENCE
+-----
+
+ Copyright 2021 Manish
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+
